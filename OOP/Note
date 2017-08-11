@@ -1,3 +1,8 @@
-Class
-Instance
-Constructor  (__init__)
+Class              (class Movie())
+Instance           (toy_story = media.Movie())
+Constructor        (__init__)
+Instance Variable  (self.title)
+Instance Method    (self.show_trailer())
+
+
+
