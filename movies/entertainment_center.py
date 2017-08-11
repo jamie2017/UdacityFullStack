@@ -19,5 +19,8 @@ avatar = media.Movie("Avatar",
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 
 
-movies = [toy_story,avatar]
-fresh_tomatoes.open_movies_page(movies)
+# movies = [toy_story,avatar]
+# fresh_tomatoes.open_movies_page(movies)
+
+print media.Movie.valid_rating
+print media.Movie.__doc__ #  >> This class provides a way to store movie related information
