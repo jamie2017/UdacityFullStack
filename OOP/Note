@@ -4,7 +4,12 @@ Constructor        (__init__)
 Instance Variable  (self.title)
 Instance Method    (self.show_trailer())
 
-Class Variable     ()
+Class Variable
+
+
+Inheritance
+Overriding
+
 
 
 
